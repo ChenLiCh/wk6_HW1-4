@@ -1,0 +1,230 @@
+html{
+}
+body{
+  background-image:url("../img/background.jpg");
+  background-size: 100% 100%;
+  margin:0px 0px 0px 0px;
+  border-width:0px 46px 0px 46px;
+  border-style:solid;
+  border-color:black;
+}
+header{
+  display:inline-block;
+  margin:30px 50px 50px 50px;
+}
+.icon_pic_square{
+  border-width:10px 10px 10px 10px;
+  border-style:solid;
+  border-color:#006600;
+  margin:0px 0px 0px 0px;
+}
+.icon_pic_flag{
+  border-width:10px 10px 10px 10px;
+  border-style:solid;
+  border-color:#66ff66;
+  margin:0px 0px 0px 0px;
+}
+.left{
+  display:inline-block;
+  float:left;
+}
+.right{
+  display:inline-block;
+  float:right;
+}
+nav{
+  display:inline-block;
+  width:650px;
+  background-color:#889C5B;
+  font-family:Arial Black;
+  font-size:16px;
+  padding-top:0px;
+  padding-bottom:15px;
+  padding-left:0px;
+  margin-bottom:15px;
+  margin-left:100px;
+  margin-top:10px;
+}
+nav li{
+  color:#EDF2C5;
+  float:left;
+  margin-right:40px;
+}
+.icon_pic_magnifying_glass{
+  display:inline-block;
+  float:left;
+  margin-top:30px;
+  margin-left:150px;
+}
+form{
+  display:inline-block;
+  float:right;
+  margin-top:30px;
+}
+.main_activity_pic{
+  max-width: 1200px;
+  background-image: url("../img/background.jpg");
+}
+.clear{
+  clear:both;
+}
+.main_activity{
+  width:961px;
+  height:474px;
+  display:inline-block;
+  background-image: url("../img/main_activity.jpg");
+  margin:0px 0px 0px 110px;
+  /*background-size: 100% 100%;*/
+}
+.p1{
+  display:inline-block;
+  float:right;
+  margin:380px 50px 0px 0px;
+  font-family:Arial Black;
+  font-size:25px;
+  font-weight: 900;
+  text-align: center;
+  color:#ffffff;
+  border:3px solid #ffffff;
+  border-radius:5px;
+  padding:5px 15px 5px 15px;
+}
+
+.activity{
+  display:inline-block;
+  margin:100px 0px 0px 0px;
+}
+.a1{
+  display:inline-block;
+  float:left;
+  color:#EDF2C5;
+  font-family:Arial Black;
+  font-size:40px;
+  font-weight: 900;
+  text-align: center;
+  border:3px solid #ffffff;
+  border-radius:5px;
+  padding:5px 5px 5px 5px;
+  margin:0px 165px 20px 110px;
+}
+.a3{
+  display:inline-block;
+  float:right;
+  color:#EDF2C5;
+  font-family:Arial Black;
+  font-size:40px;
+  font-weight: 900;
+  text-align: center;
+  border:3px solid #ffffff;
+  border-radius:5px;
+  padding:5px 5px 5px 5px;
+  margin:0px 0px 20px 165px;
+}
+.a2{
+  display:inline-block;
+  color:#EDF2C5;
+  font-family:Arial Black;
+  font-size:40px;
+  font-weight: 900;
+  text-align: center;
+  border:3px solid #ffffff;
+  border-radius:5px;
+  padding:5px 5px 5px 5px;
+  margin:0px 165px 20px 165px;
+}
+.activity_pic{
+  display:inline-block;
+}
+.activity1{
+  width:373px;
+  height:260px;
+  display:inline-block;
+  float:left;
+  margin:0px 60px 20px 15px;
+  background-image: url("../img/activity1.jpg");
+  background-size: 100% 100%;
+}
+.activity3{
+  width:373px;
+  height:260px;
+  display:inline-block;
+  float:right;
+  margin:0px 0px 20px 50px;
+  background-image: url("../img/activity3.jpg");
+  background-size: 100% 100%;
+}
+.activity2{
+  width:373px;
+  height:260px;
+  display:inline-block;
+  margin:0px 70px 20px 50px;
+  background-image: url("../img/activity2.jpg");
+  background-size: 100% 100%;
+}
+.join1{
+  display:inline-block;
+  float:right;
+  margin:200px 40px 0px 0px;
+  font-family:Arial Black;
+  font-size:20px;
+  font-weight: 900;
+  text-align: center;
+  color:#ffffff;
+  border:3px solid #ffffff;
+  border-radius:5px;
+  padding:5px 15px 5px 15px;
+}
+.join2{
+  display:inline-block;
+  float:right;
+  margin:200px 40px 0px 0px;
+  font-family:Arial Black;
+  font-size:20px;
+  font-weight: 900;
+  text-align: center;
+  color:#ffffff;
+  border:3px solid #ffffff;
+  border-radius:5px;
+  padding:5px 15px 5px 15px;
+}
+.join3{
+  display:inline-block;
+  float:right;
+  margin:200px 40px 0px 0px;
+  font-family:Arial Black;
+  font-size:20px;
+  font-weight: 900;
+  text-align: center;
+  color:#ffffff;
+  border:3px solid #ffffff;
+  border-radius:5px;
+  padding:5px 15px 5px 15px;
+}
+footer{
+  width: auto;
+  height:130px;
+  display:inline-block;
+  background-image: url("../img/bottom.jpg");
+  background-size: 100% 100%;
+  margin:100px 0px 0px 0px;
+}
+.bottom_nav{
+  display:inline-block;
+  margin:80px 400px 0px 400px;
+}
+.bottom_nav li{
+  display:inline-block;
+  float:left;
+  margin:0px 10px 0px 10px;
+}
+.bottom_icon{
+  display:inline-block;
+  float:right;
+  margin:85px 43px 0px 0px;
+}
+.icon_fb{
+  margin:0px 10px 0px 0px;
+}
+/*.bottom_pic{
+  max-width:100%;
+}*/
